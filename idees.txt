@@ -1,0 +1,14 @@
+- Top 100 des WC publiques
+- Top 100 des types de crottes proposés par les utilisateurs
+- Les choses à voir autour des WC (Sur activation)
+- Module utilisateur (Avec activation Geoloc / notification des choses à voir)
+- Icone caca
+- Au lieu des étoiles, des cacas
+- Aires d'autoroute
+- Toilette payant / Gratuit
+- Top 100 des contributeurs
+- Système de Badge/haut fait en fonction du nombre de toilette utilisé
+- Proposer des photos des WC
+- Système lié à la ville pour nettoyage en fonction des notes postés les jours précédent
+- Récupération du nombre d'utilisation des WC pour proposer des offres à des sociétés de publicités
+- 
