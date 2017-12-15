@@ -12,3 +12,12 @@
 - Système lié à la ville pour nettoyage en fonction des notes postés les jours précédent
 - Récupération du nombre d'utilisation des WC pour proposer des offres à des sociétés de publicités
 - 
+
+1 : Toulouse
+2 : Rennes
+3 : Paris
+4 : Nantes
+5 : Lille
+6 : Castelnaudary
+7 : Bordeaux
+8 : Autoroute
