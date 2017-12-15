@@ -2,7 +2,24 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "gml_id": "gin_nettoiement.gintoilettepublique.1", "commune": "MARCY-L'ETOILE", "voie": "Allée Louis Raymond", "numerodansvoie": "15", "gestionnaire": "NET Sud-Ouest", "observation": null, "identifiant": "W50001", "gid": "1" }, "geometry": { "type": "Point", "coordinates": [ 4.704996, 45.781115 ] } },
+{ 
+	"type": "Feature", 
+	"properties": { 
+		"gml_id": "gin_nettoiement.gintoilettepublique.1", 
+		"commune": "MARCY-L'ETOILE", 
+		"voie": "Allée Louis Raymond", 
+		"numerodansvoie": "15", 
+		"gestionnaire": "NET Sud-Ouest", 
+		"observation": null, 
+		"identifiant": "W50001", 
+		"gid": "1"
+		}, 
+	"geometry": { 
+		"type": "Point", 
+		"coordinates": [ 4.704996, 45.781115 ] 
+		} 
+},
+	
 { "type": "Feature", "properties": { "gml_id": "gin_nettoiement.gintoilettepublique.2", "commune": "FRANCHEVILLE", "voie": "Rue de la Doulline", "numerodansvoie": "2", "gestionnaire": "NET Sud-Ouest", "observation": "Place du Repos", "identifiant": "W63121", "gid": "2" }, "geometry": { "type": "Point", "coordinates": [ 4.761693, 45.73742 ] } },
 { "type": "Feature", "properties": { "gml_id": "gin_nettoiement.gintoilettepublique.3", "commune": "CALUIRE-ET-CUIRE", "voie": "Rue de Verdun", "numerodansvoie": null, "gestionnaire": "NET Nord-Ouest", "observation": "SQUARE POLNARD", "identifiant": "W40031", "gid": "3" }, "geometry": { "type": "Point", "coordinates": [ 4.84074, 45.782999 ] } },
 { "type": "Feature", "properties": { "gml_id": "gin_nettoiement.gintoilettepublique.4", "commune": "CURIS-AU-MONT-D'OR", "voie": "Rue du Pontet", "numerodansvoie": null, "gestionnaire": "NET Nord-Ouest", "observation": "A L INTERIEUR DU STADE", "identifiant": "W40013", "gid": "4" }, "geometry": { "type": "Point", "coordinates": [ 4.823463, 45.873426 ] } },
