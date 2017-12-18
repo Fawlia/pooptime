@@ -21,3 +21,6 @@
 6 : Castelnaudary
 7 : Bordeaux
 8 : Autoroute
+9 : Lyon
+10 : Angers
+
